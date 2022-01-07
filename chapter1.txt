@@ -1,1 +1,10 @@
 This is a test for class.
+mkdir <foldername>
+cd <new foldername>
+touch <new filename>
+start <filename>
+git init
+(ls -a) to show all files in directory(folder)
+git status - shows files in directory (red are there but not added yet.
+git add <filename>
+git commit -m "<text about save(present tense)>"
