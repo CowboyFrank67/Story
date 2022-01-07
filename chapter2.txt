@@ -1,1 +1,4 @@
 this is chapter 2
+git add . (to add all files in folder)
+git commit -m "<new commit message>"
+get log - to see all commits
